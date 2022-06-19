@@ -2,6 +2,13 @@
  ## Description
 A simple desktop application to test your typing speed.It has three modes of difficulty level:Easy,Medium and Difficult.You will be given 60 seconds to type words in all three levels.At the end of 60 seconds you will be shown your score on the basis of how many words you typed.
 
+
+## Built With
+
+### Python
+
+### Library used:PyQt5(and Qt designer is used)
+
 ## Images 
 
 ### **Image of easy mode.**
@@ -26,7 +33,4 @@ A simple desktop application to test your typing speed.It has three modes of dif
 
 
 
-## Built With
-### Python
 
-### Library used:PyQt5(and Qt designer is used)
