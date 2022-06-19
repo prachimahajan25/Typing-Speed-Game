@@ -6,10 +6,9 @@ A simple desktop application to test your typing speed.It has three modes of dif
 ## Built With
 
 Python
-
 Library used:PyQt5(and Qt designer is used)
 
-Installing the packages
+## Installing the packages
 pip install pyQt5
 pip install pyQt5-tools
 Qt designer can be used for simplicity of front-end
