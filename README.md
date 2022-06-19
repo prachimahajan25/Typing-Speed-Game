@@ -22,4 +22,5 @@ A simple desktop application to test your typing speed.It has three modes of dif
 
 ## Built With
 Python
+
 Library used:PyQt5(and Qt designer is used)
