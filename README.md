@@ -19,3 +19,7 @@ A simple desktop application to test your typing speed.It has three modes of dif
 **At the end of 60 seconds**
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/88131508/174488531-fbc6d008-9116-441d-ab08-8a839730c864.png)
+
+## Built With
+Python
+Library used:PyQt5(and Qt designer is used)
