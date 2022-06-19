@@ -22,6 +22,10 @@ A simple desktop application to test your typing speed.It has three modes of dif
 
 #### **Instructions**
 
+![Screenshot (27)](https://user-images.githubusercontent.com/88131508/174489639-d0ed804e-cc5d-4c23-b79d-494d96b67be5.png)
+
+
+
 ## Built With
 ### Python
 
