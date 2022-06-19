@@ -10,7 +10,7 @@ A simple desktop application to test your typing speed.It has three modes of dif
 
 **Difficulty level of words to be typed is increased as mode is changed from easy to medium.**
 
-![Screenshot (24)](https://user-images.githubusercontent.com/88131508/174488526-2c76bd34-919c-4c1e-a607-a76a091b54bd.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/88131508/174488893-f6da43f8-2ca8-48cb-aaaf-1a3db173cf2c.png)
 
 **Level is furthermore increased as mode is changed from medium to difficult.**
 
